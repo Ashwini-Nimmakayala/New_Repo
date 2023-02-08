@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 print("hello world")
 print("adding second line")
-print("kudos")
+print("adding new line to first file")
